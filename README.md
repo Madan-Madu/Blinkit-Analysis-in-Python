@@ -1,5 +1,4 @@
 # Blinkit-Analysis-in-Python
-# Blinkit Sales Analysis 
 
 ## Project Overview
 This project analyzes Blinkit’s sales data to uncover insights on customer preferences, outlet performance, and inventory distribution using Python.
